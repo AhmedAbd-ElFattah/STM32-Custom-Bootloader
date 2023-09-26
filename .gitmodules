@@ -1,0 +1,6 @@
+[submodule "STM32-Custom-Bootloader/STM32-Drivers"]
+	path = STM32-Custom-Bootloader/STM32-Drivers
+	url = https://github.com/AhmedAbd-ElFattah/STM32-Drivers
+[submodule "USART_To_CAN_Board/STM32-Drivers"]
+	path = USART_To_CAN_Board/STM32-Drivers
+	url = https://github.com/AhmedAbd-ElFattah/STM32-Drivers

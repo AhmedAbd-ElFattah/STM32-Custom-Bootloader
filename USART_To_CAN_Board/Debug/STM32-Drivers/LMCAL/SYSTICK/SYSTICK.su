@@ -1,0 +1,4 @@
+../STM32-Drivers/LMCAL/SYSTICK/SYSTICK.c:31:6:SysTick_Handler	4	static
+../STM32-Drivers/LMCAL/SYSTICK/SYSTICK.c:36:5:SYSTICK_GetPreciseCurrentTicksInMilliSeconds_f32	24	static
+../STM32-Drivers/LMCAL/SYSTICK/SYSTICK.c:40:5:SYSTICK_GetCurrentTicks_u32	4	static
+../STM32-Drivers/LMCAL/SYSTICK/SYSTICK.c:46:6:SYSTICK_Init_v	24	static

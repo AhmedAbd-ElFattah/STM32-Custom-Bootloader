@@ -1,0 +1,2 @@
+../STM32-Drivers/HMCAL/IWDG/IWDG.c:31:6:IWDG_Config_v	16	static
+../STM32-Drivers/HMCAL/IWDG/IWDG.c:58:6:IWDG_Refresh_v	4	static

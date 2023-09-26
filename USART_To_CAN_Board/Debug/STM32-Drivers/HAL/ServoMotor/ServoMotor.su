@@ -1,0 +1,2 @@
+../STM32-Drivers/HAL/ServoMotor/ServoMotor.c:28:6:ServoMotor_Config_v	56	static
+../STM32-Drivers/HAL/ServoMotor/ServoMotor.c:67:6:ServoMotor_ChangeFrequencyAndAngle_v	56	static

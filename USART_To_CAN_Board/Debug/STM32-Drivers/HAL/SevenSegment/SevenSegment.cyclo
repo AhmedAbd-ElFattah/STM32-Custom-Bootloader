@@ -1,0 +1,3 @@
+SevenSegment.c:27:6:SevenSegment_Config_v	2
+SevenSegment.c:42:6:SevenSegment_DisplayValue_v	8
+SevenSegment.c:86:6:SevenSegment_TurnOFFDisplay_v	2

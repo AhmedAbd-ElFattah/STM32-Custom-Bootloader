@@ -1,0 +1,11 @@
+SPI.c:43:6:SPI_Config_v	22
+SPI.c:226:6:SPI_Sendu8Data_v	3
+SPI.c:233:6:SPI_Sendu16Data_v	3
+SPI.c:240:6:SPI_ChangeDataFrameFormatTo16Bit_v	3
+SPI.c:255:6:SPI_ChangeDataFrameFormatTo8Bit_v	3
+SPI.c:272:4:SPI_Receiveu8Data_v	2
+SPI.c:279:4:SPI_SendAndReceive_u8	2
+SPI.c:286:5:SPI_SendAndReceive_u16	3
+SPI.c:295:6:SPI_IsEnabled_Bool	1
+SPI.c:300:6:SPI_EnableSPI_v	2
+SPI.c:305:6:SPI_DisableSPI_v	2

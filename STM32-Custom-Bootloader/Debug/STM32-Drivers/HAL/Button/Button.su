@@ -1,0 +1,5 @@
+../STM32-Drivers/HAL/Button/Button.c:28:6:Button_Config_v	32	static
+../STM32-Drivers/HAL/Button/Button.c:40:6:Button_Reset_v	32	static
+../STM32-Drivers/HAL/Button/Button.c:51:5:Button_GetReading_u16	32	static
+../STM32-Drivers/HAL/Button/Button.c:60:6:Button_GetPinReading_Bool	32	static
+../STM32-Drivers/HAL/Button/Button.c:69:6:Button_IsPressed_Bool	32	static

@@ -1,0 +1,2 @@
+../STM32-Drivers/HMCAL/SYSCFG/SYSCFG.c:28:6:SYSCFG_EXTIConfig_v	16	static
+../STM32-Drivers/HMCAL/SYSCFG/SYSCFG.c:34:4:SYSCFG_GetActiveGPIO_u8	24	static

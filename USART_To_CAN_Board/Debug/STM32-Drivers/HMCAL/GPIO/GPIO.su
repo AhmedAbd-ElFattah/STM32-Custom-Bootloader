@@ -1,0 +1,9 @@
+../STM32-Drivers/HMCAL/GPIO/GPIO.c:44:6:GPIO_Config_v	48	static
+../STM32-Drivers/HMCAL/GPIO/GPIO.c:202:6:GPIO_PinWrite_v	24	static
+../STM32-Drivers/HMCAL/GPIO/GPIO.c:250:6:GPIO_PORTWrite_v	24	static
+../STM32-Drivers/HMCAL/GPIO/GPIO.c:287:6:GPIO_PORTMaskedWrite_v	24	static
+../STM32-Drivers/HMCAL/GPIO/GPIO.c:317:4:GPIO_PinRead_u8	24	static
+../STM32-Drivers/HMCAL/GPIO/GPIO.c:344:5:GPIO_PORTRead_u16	24	static
+../STM32-Drivers/HMCAL/GPIO/GPIO.c:372:5:GPIO_PORTMaskedRead_u16	24	static
+../STM32-Drivers/HMCAL/GPIO/GPIO.c:402:6:GPIO_MapGPIOPIN_v	32	static
+../STM32-Drivers/HMCAL/GPIO/GPIO.c:437:6:GPIO_Reset_v	32	static

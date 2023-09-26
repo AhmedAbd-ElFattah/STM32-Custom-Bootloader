@@ -1,0 +1,7 @@
+../STM32-Drivers/HMCAL/ADC/ADC.c:45:6:ADC_Config_v	128	static
+../STM32-Drivers/HMCAL/ADC/ADC.c:352:6:ADC_StartSoftwareConversion_v	16	static
+../STM32-Drivers/HMCAL/ADC/ADC.c:355:6:ADC_StopSoftwareConversion_v	16	static
+../STM32-Drivers/HMCAL/ADC/ADC.c:359:6:ADC_EnableADC_v	16	static
+../STM32-Drivers/HMCAL/ADC/ADC.c:362:6:ADC_DisableADC_v	16	static
+../STM32-Drivers/HMCAL/ADC/ADC.c:365:5:ADC_GetReading_u16	24	static
+../STM32-Drivers/HMCAL/ADC/ADC.c:372:5:ADC_GetAdressForDMA_u32	16	static

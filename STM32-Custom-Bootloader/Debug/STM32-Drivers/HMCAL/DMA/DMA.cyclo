@@ -1,0 +1,8 @@
+DMA.c:45:6:DMA_Config_v	55
+DMA.c:439:6:DMA_EnableDMA_v	2
+DMA.c:449:6:DMA_DisableDMA_v	2
+DMA.c:458:6:DMA_ChangeBuffer0Address_v	1
+DMA.c:474:6:DMA_ChangeBuffer1Address_v	1
+DMA.c:489:6:DMA_CheckInterruptAndClear_Bool	9
+DMA.c:531:4:DMA_GetCurrentBuffer_v	1
+DMA.c:536:6:DMA_Reset_v	1

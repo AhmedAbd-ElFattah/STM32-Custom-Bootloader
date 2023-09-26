@@ -1,0 +1,5 @@
+Button.c:28:6:Button_Config_v	1
+Button.c:40:6:Button_Reset_v	1
+Button.c:51:5:Button_GetReading_u16	1
+Button.c:60:6:Button_GetPinReading_Bool	1
+Button.c:69:6:Button_IsPressed_Bool	5

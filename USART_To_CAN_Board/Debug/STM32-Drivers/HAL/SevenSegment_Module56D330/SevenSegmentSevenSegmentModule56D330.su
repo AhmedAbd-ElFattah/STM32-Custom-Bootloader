@@ -1,0 +1,3 @@
+../STM32-Drivers/HAL/SevenSegment_Module56D330/SevenSegmentSevenSegmentModule56D330.c:40:6:SevenSegmentModule_ApplyCommand_v	64	static
+../STM32-Drivers/HAL/SevenSegment_Module56D330/SevenSegmentSevenSegmentModule56D330.c:85:6:SevenSegmentModule_Config_v	32	static
+../STM32-Drivers/HAL/SevenSegment_Module56D330/SevenSegmentSevenSegmentModule56D330.c:116:6:SevenSegmentModule_DisplayNumber_v	24	static

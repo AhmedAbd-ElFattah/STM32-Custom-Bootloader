@@ -1,0 +1,5 @@
+DCMotor.c:28:6:DCMotor_Config_v	5
+DCMotor.c:82:6:DCMotor_ChangeSpeed_v	5
+DCMotor.c:106:6:DCMotor_StopMotor_v	5
+DCMotor.c:138:6:DCMotor_SetDirectionToClockWise_v	1
+DCMotor.c:150:6:DCMotor_SetDirectionToCounterClockWise_v	1
