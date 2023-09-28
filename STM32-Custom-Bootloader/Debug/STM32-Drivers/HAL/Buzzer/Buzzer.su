@@ -1,2 +1,0 @@
-../STM32-Drivers/HAL/Buzzer/Buzzer.c:28:6:Buzzer_Config_v	56	static
-../STM32-Drivers/HAL/Buzzer/Buzzer.c:65:6:Buzzer_ChangeFrequencyAndPWM_v	56	static

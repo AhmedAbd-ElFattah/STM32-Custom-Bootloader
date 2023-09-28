@@ -1,4 +1,0 @@
-SYSTICK.c:31:6:SysTick_Handler	1
-SYSTICK.c:36:5:SYSTICK_GetPreciseCurrentTicksInMilliSeconds_f32	1
-SYSTICK.c:40:5:SYSTICK_GetCurrentTicks_u32	1
-SYSTICK.c:46:6:SYSTICK_Init_v	2

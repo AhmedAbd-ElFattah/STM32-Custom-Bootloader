@@ -1,8 +1,0 @@
-SCB.c:26:5:SCB_GetCPUId_u32	1
-SCB.c:30:5:SCB_GetRevisionId_u16	1
-SCB.c:34:5:SCB_GetPartNumberId_u16	1
-SCB.c:38:5:SCB_GetVariantId_u16	1
-SCB.c:42:5:SCB_GetImplementerId_u16	1
-SCB.c:46:6:SCB_EnableFPU_v	1
-SCB.c:53:6:SCB_SetVectorTableOffset_void	3
-SCB.c:67:6:SCB_SWReset	1

@@ -1,4 +1,0 @@
-../STM32-Drivers/HAL/LED/LED.c:27:6:LED_Config_v	32	static
-../STM32-Drivers/HAL/LED/LED.c:38:6:LED_Reset_v	32	static
-../STM32-Drivers/HAL/LED/LED.c:49:6:LED_TurnOn_v	32	static
-../STM32-Drivers/HAL/LED/LED.c:56:6:LED_TurnOFF_v	32	static

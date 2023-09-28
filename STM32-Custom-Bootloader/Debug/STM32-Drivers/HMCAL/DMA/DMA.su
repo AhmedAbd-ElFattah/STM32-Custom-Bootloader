@@ -1,8 +1,0 @@
-../STM32-Drivers/HMCAL/DMA/DMA.c:45:6:DMA_Config_v	56	static
-../STM32-Drivers/HMCAL/DMA/DMA.c:439:6:DMA_EnableDMA_v	24	static
-../STM32-Drivers/HMCAL/DMA/DMA.c:449:6:DMA_DisableDMA_v	24	static
-../STM32-Drivers/HMCAL/DMA/DMA.c:458:6:DMA_ChangeBuffer0Address_v	32	static
-../STM32-Drivers/HMCAL/DMA/DMA.c:474:6:DMA_ChangeBuffer1Address_v	32	static
-../STM32-Drivers/HMCAL/DMA/DMA.c:489:6:DMA_CheckInterruptAndClear_Bool	24	static
-../STM32-Drivers/HMCAL/DMA/DMA.c:531:4:DMA_GetCurrentBuffer_v	16	static
-../STM32-Drivers/HMCAL/DMA/DMA.c:536:6:DMA_Reset_v	48	static

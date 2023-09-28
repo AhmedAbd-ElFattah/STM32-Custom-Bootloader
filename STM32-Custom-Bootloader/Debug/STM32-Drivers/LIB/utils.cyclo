@@ -1,3 +1,0 @@
-utils.c:28:6:Utils_TimeoutChecker_Init	1
-utils.c:39:4:Utils_IsTimeoutOccurred_u8	3
-utils.c:50:6:Utils_SoftwareReset_v	1

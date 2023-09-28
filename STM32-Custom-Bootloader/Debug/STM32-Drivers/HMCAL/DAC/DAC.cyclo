@@ -1,6 +1,0 @@
-DAC.c:47:6:DAC_Config_v	23
-DAC.c:190:6:DAC_EnableDAC_v	3
-DAC.c:202:6:DAC_DisableDAC_v	3
-DAC.c:215:6:DAC_SetOutputValue_v	3
-DAC.c:227:6:DAC_SoftwareTrigger_v	3
-DAC.c:240:5:DAC_GetAddressForDMA_u32	3
