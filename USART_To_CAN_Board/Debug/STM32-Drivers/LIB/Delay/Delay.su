@@ -1,2 +1,0 @@
-../STM32-Drivers/LIB/Delay/Delay.c:28:6:Delay_DelayInMilliSecondsBlocking_v	40	static
-../STM32-Drivers/LIB/Delay/Delay.c:40:6:Delay_DelayInSecondsBlocking_v	24	static

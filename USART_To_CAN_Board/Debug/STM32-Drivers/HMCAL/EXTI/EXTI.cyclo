@@ -1,3 +1,0 @@
-EXTI.c:37:6:EXTI_Config_v	11
-EXTI.c:139:6:EXTI_CheckInterrupt_Bool	2
-EXTI.c:154:6:EXTI_ClearInterrupt_v	2

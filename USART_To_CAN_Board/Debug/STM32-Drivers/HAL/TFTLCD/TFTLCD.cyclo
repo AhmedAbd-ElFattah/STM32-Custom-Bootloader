@@ -1,6 +1,0 @@
-TFTLCD.c:54:6:TFT_Config_v	1
-TFTLCD.c:94:6:TFT_Writeu8Data_v	1
-TFTLCD.c:106:6:TFT_Writeu16Data_v	1
-TFTLCD.c:119:6:TFT_WriteCommand_v	1
-TFTLCD.c:131:6:TFT_Init_v	3
-TFTLCD.c:180:6:TFT_DisplayImage_v	3

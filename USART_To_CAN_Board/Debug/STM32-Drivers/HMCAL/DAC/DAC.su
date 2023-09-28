@@ -1,6 +1,0 @@
-../STM32-Drivers/HMCAL/DAC/DAC.c:47:6:DAC_Config_v	40	static
-../STM32-Drivers/HMCAL/DAC/DAC.c:190:6:DAC_EnableDAC_v	16	static
-../STM32-Drivers/HMCAL/DAC/DAC.c:202:6:DAC_DisableDAC_v	16	static
-../STM32-Drivers/HMCAL/DAC/DAC.c:215:6:DAC_SetOutputValue_v	16	static
-../STM32-Drivers/HMCAL/DAC/DAC.c:227:6:DAC_SoftwareTrigger_v	16	static
-../STM32-Drivers/HMCAL/DAC/DAC.c:240:5:DAC_GetAddressForDMA_u32	24	static

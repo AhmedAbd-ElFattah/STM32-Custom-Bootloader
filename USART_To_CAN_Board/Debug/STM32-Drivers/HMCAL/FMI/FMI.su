@@ -1,4 +1,0 @@
-../STM32-Drivers/HMCAL/FMI/FMI.c:41:6:FMI_FlashWriteU8Data_v	16	static
-../STM32-Drivers/HMCAL/FMI/FMI.c:76:6:FMI_FlashWriteU16Data_v	16	static
-../STM32-Drivers/HMCAL/FMI/FMI.c:111:6:FMI_FlashWriteU32Data_v	16	static
-../STM32-Drivers/HMCAL/FMI/FMI.c:145:6:FMI_EraseFlashSector_v	16	static

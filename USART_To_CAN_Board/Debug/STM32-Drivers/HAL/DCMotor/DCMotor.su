@@ -1,5 +1,0 @@
-../STM32-Drivers/HAL/DCMotor/DCMotor.c:28:6:DCMotor_Config_v	72	static
-../STM32-Drivers/HAL/DCMotor/DCMotor.c:82:6:DCMotor_ChangeSpeed_v	56	static
-../STM32-Drivers/HAL/DCMotor/DCMotor.c:106:6:DCMotor_StopMotor_v	72	static
-../STM32-Drivers/HAL/DCMotor/DCMotor.c:138:6:DCMotor_SetDirectionToClockWise_v	32	static
-../STM32-Drivers/HAL/DCMotor/DCMotor.c:150:6:DCMotor_SetDirectionToCounterClockWise_v	32	static

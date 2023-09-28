@@ -1,3 +1,0 @@
-../STM32-Drivers/HMCAL/EXTI/EXTI.c:37:6:EXTI_Config_v	64	static
-../STM32-Drivers/HMCAL/EXTI/EXTI.c:139:6:EXTI_CheckInterrupt_Bool	16	static
-../STM32-Drivers/HMCAL/EXTI/EXTI.c:154:6:EXTI_ClearInterrupt_v	16	static

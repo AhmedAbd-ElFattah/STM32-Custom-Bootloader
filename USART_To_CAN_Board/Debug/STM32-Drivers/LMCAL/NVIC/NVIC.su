@@ -1,8 +1,0 @@
-../STM32-Drivers/LMCAL/NVIC/NVIC.c:27:6:NVIC_EnableInterrupt_v	16	static
-../STM32-Drivers/LMCAL/NVIC/NVIC.c:31:6:NVIC_DisableInterrupt_v	16	static
-../STM32-Drivers/LMCAL/NVIC/NVIC.c:36:6:NVIC_SetPendingInterrupt_v	16	static
-../STM32-Drivers/LMCAL/NVIC/NVIC.c:41:6:NVIC_ClearPendingInterrupt_v	16	static
-../STM32-Drivers/LMCAL/NVIC/NVIC.c:46:4:NVIC_InterruptIsActive_u8	16	static
-../STM32-Drivers/LMCAL/NVIC/NVIC.c:51:4:NVIC_InterruptIsEnabled_u8	16	static
-../STM32-Drivers/LMCAL/NVIC/NVIC.c:56:4:NVIC_InterruptIsPending_u8	16	static
-../STM32-Drivers/LMCAL/NVIC/NVIC.c:60:6:NVIC_InterruptTrigger_v	16	static
